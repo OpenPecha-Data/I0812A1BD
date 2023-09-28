@@ -1,0 +1,9 @@
+id: 4ddf2bffe1fe4f8ca5e77111a8cf8610
+annotation_type: Language
+revision: '00001'
+annotations:
+  5ec10f7d284f46d6b1795910c56e385b:
+    span:
+      start: 99559
+      end: 99631
+    language: sa-Deva
